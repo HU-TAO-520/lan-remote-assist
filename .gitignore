@@ -1,0 +1,38 @@
+# Rust and .NET build output
+**/target/
+**/bin/
+**/obj/
+/.vs/
+/.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Generated packages and local test evidence
+/artifacts/
+/out/
+/dist/
+/logs/
+/captures/
+/measurements/
+/test-results/
+*.log
+*.dmp
+
+# Local configuration and credentials
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+*.key
+*.pfx
+*.p12
+
+# Operating system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Cargo.lock should be committed for application crates.
