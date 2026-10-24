@@ -1,6 +1,6 @@
 # LAN Remote Assist
 
-[English](#english) · [正體中文](#traditional-chinese) · [简体中文](#simplified-chinese)
+[English](#english) | [繁體中文](#traditional-chinese) | [简体中文](#simplified-chinese)
 
 <a id="english"></a>
 ## English
@@ -61,7 +61,7 @@ See the [MVP requirements and development plan](<Version/Minimun Viable Product/
 Original project code and documentation are licensed under **GNU GPL version 3 only** (`GPL-3.0-only`). See [LICENSE](LICENSE). Third-party components retain their respective licenses; dependency and distribution obligations will be recorded when components are integrated.
 
 <a id="traditional-chinese"></a>
-## 正體中文
+## 繁體中文
 
 LAN Remote Assist 是一個規劃中的 Windows 區域網路遠端協助 MVP，提供一對一、每次均經現場同意的協助。首輪使用任務為編輯 Microsoft Office 文件，以及透過瀏覽器使用 Bing。
 
